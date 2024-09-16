@@ -26,7 +26,7 @@
 
   #  Additional Pages:
 
- **1.	Hospital-Based System: **
+ **1.	Hospital-Based System:** 
 
 -    Automate Re-ordering:     
   Automatically reorder supplies when they fall below a set level to ensure essential items are always in stock.
@@ -52,7 +52,7 @@
 -    Pandemic Predictor:     
   Use AI to analyze patient data and predict potential outbreaks. Alert hospital staff and authorities when a potential threat is detected.
 
-  **2.    Authority-Based System:   **
+ **2.Authority-Based System:**
 
 -    Collective Hospital Data:     
   Centralize data from multiple hospitals to manage resources and operations across the network.
@@ -69,7 +69,7 @@
 -    Pandemic Predictor:     
   Use AI to monitor patient data and predict potential outbreaks, alerting staff and authorities when necessary.
 
-  ** 3.    User-Based System:    **
+   **3.User-Based System:**
 
 -    Location-based Hospital Tracking:     
   Track hospitals’ performance and resources based on their location to allocate resources and respond to local needs efficiently.
