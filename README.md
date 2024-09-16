@@ -104,7 +104,7 @@
  Hospitals face significant challenges with patient flow, bed management, and admissions, often resulting in long wait times, inefficient bed utilization, and delayed patient care. Traditional systems struggle to keep pace with real-time demands, leading to operational inefficiencies and poor patient experiences. 😷
 Solution Overview: Our comprehensive solution leverages cutting-edge technologies and AI to transform hospital operations. By implementing advanced queuing models, real-time bed management, and automated admissions, we aim to streamline patient processing and optimize resource allocation. Seamless integration with city-wide healthcare systems will enhance coordination and improve emergency response capabilities, leading to a more efficient and responsive healthcare environment. 🌟
 
-  # #  Key Objectives:
+  ##  Key Objectives:
 
  **Optimized Queuing Models in OPDs 🕒:**
 Implement predictive algorithms and real-time scheduling systems to minimize wait times and enhance patient flow. Features include dynamic scheduling, digital check-ins, and real-time queue management.
