@@ -1,4 +1,4 @@
-# ** Sanjeevani + ** 
+#  **Sanjeevani +** 
 ![image](https://github.com/user-attachments/assets/04adc913-2dbd-444c-bf7a-df8f9b45d386)
 ![sanjeevani_flowchart](https://github.com/user-attachments/assets/0a7483e2-de14-4e0f-9df2-cc5725fd386a)
 ![sanjeevani_map](https://github.com/user-attachments/assets/ab79b38f-27eb-467b-9666-96607350ebc5)
@@ -26,7 +26,7 @@
 
   #  Additional Pages:
 
-** 1.	Hospital-Based System:   ** 
+ **1.	Hospital-Based System: **
 
 -    Automate Re-ordering:     
   Automatically reorder supplies when they fall below a set level to ensure essential items are always in stock.
@@ -52,7 +52,7 @@
 -    Pandemic Predictor:     
   Use AI to analyze patient data and predict potential outbreaks. Alert hospital staff and authorities when a potential threat is detected.
 
- **  2.    Authority-Based System:   ** 
+  **2.    Authority-Based System:   **
 
 -    Collective Hospital Data:     
   Centralize data from multiple hospitals to manage resources and operations across the network.
@@ -69,7 +69,7 @@
 -    Pandemic Predictor:     
   Use AI to monitor patient data and predict potential outbreaks, alerting staff and authorities when necessary.
 
- **  3.    User-Based System:   ** 
+  ** 3.    User-Based System:    **
 
 -    Location-based Hospital Tracking:     
   Track hospitals’ performance and resources based on their location to allocate resources and respond to local needs efficiently.
@@ -94,30 +94,30 @@
 
 
 
- #  **  Problem Statement Title:** 
+ #   **Problem Statement Title:**
 
   Problem Statement Title: Revolutionizing Hospital Operations: Advanced Queuing, Bed Management, and Admissions and City Wide Integration 🌟
 
 
- ##  **  Description:** 
+ ##    **Description:**
 
  Hospitals face significant challenges with patient flow, bed management, and admissions, often resulting in long wait times, inefficient bed utilization, and delayed patient care. Traditional systems struggle to keep pace with real-time demands, leading to operational inefficiencies and poor patient experiences. 😷
 Solution Overview: Our comprehensive solution leverages cutting-edge technologies and AI to transform hospital operations. By implementing advanced queuing models, real-time bed management, and automated admissions, we aim to streamline patient processing and optimize resource allocation. Seamless integration with city-wide healthcare systems will enhance coordination and improve emergency response capabilities, leading to a more efficient and responsive healthcare environment. 🌟
 
   # #  Key Objectives:
 
- ** Optimized Queuing Models in OPDs 🕒:** 
+ **Optimized Queuing Models in OPDs 🕒:**
 Implement predictive algorithms and real-time scheduling systems to minimize wait times and enhance patient flow. Features include dynamic scheduling, digital check-ins, and real-time queue management.
-  ** Real-Time Bed Availability Management 🛏️:** 
+**  Real-Time Bed Availability Management 🛏️:**
 Develop an advanced bed management module that provides up-to-the-minute information on bed occupancy across various wards, including ICU and general wards. This system will automatically update bed statuses, issue alerts for near-capacity conditions, and facilitate efficient bed allocation to improve patient flow and reduce overcrowding.
-** Streamlined Patient Admissions 📑: ** 
+ **Streamlined Patient Admissions 📑:**
 Automate the admission process, linking with Electronic Health Records (EHR) to ensure accurate data management, reduce administrative errors, and expedite patient onboarding.
-**  Enhanced Inventory Management 💊: ** 
+ **Enhanced Inventory Management 💊:** 
 Create a comprehensive inventory module with real-time tracking, automated reordering alerts, and batch tracking to ensure timely availability of medical supplies and reduce waste.
- **   Seamless City-Wide Integration 🌐: ** 
+ ** Seamless City-Wide Integration 🌐: **
  Ensure the hospital-based solution integrates effortlessly with the city-wide healthcare module developed by NIC (National Informatics Centre). This integration will enable real-time data exchange, coordinated resource management, and enhanced emergency response capabilities, improving overall healthcare delivery.
  
-## ** Success Metrics:** 
+##  **Success Metrics:**
 •	Reduced Wait Times: Measure the decrease in patient wait times in OPDs.
 •	Improved Bed Utilization: Track bed occupancy rates and efficiency.
 •	Enhanced Patient Satisfaction: Assess patient feedback and satisfaction levels.
@@ -125,7 +125,7 @@ Implementation and Testing Plan:
 •	Implementation: Detailed timeline and milestones for deployment across hospitals.
 •	Testing and Validation: Comprehensive testing plan to ensure functionality and performance.
 
-# ** Conclusion:** 
+# **Conclusion:**
 Our solution will revolutionize hospital operations by addressing key challenges in queuing, bed management, and admissions. By integrating with city-wide systems, we will enhance resource coordination and improve patient care, leading to a more efficient and effective healthcare system. 🌟 
 
 
@@ -133,7 +133,7 @@ Our solution will revolutionize hospital operations by addressing key challenges
 
    # Technology Stack:
 
-##Front-End Development:
+##**Front-End Development:**
 
 1.   HTML (HyperText Markup Language)  :  
    Purpose: Provides the structure of the web page.  
@@ -197,7 +197,7 @@ Backend Development:
 
 ---
 
- ## API’s:
+ **## API’s:**
 
 17.   Geolocation API  :  
     Purpose: Determines the geographical location of a device.  
@@ -206,7 +206,7 @@ Backend Development:
 -   Purpose  : Integrates Google Maps into applications.
 -   Role  : Enables interactive maps, location markers, routing, and other geographic features within web and mobile applications.
 
- ##  AI Integrations:
+ **##  AI Integrations:**
 
 19.    ChatBot  :
 -   Purpose  : Automates customer interaction.
@@ -233,8 +233,8 @@ Backend Development:
 -   Purpose  : Improves patient flow management.
 -   Role  : Utilizes AI to adjust queuing systems dynamically based on real-time data, enhancing efficiency and reducing wait times.
 ---
-  ## Encryption and Security:
-
+ ** ## Encryption and Security:
+**
 25.   CSRF Protection  :
 -   Purpose  : Prevents unauthorized actions on behalf of authenticated users.
 -   Role  : Protects against Cross-Site Request Forgery attacks by validating requests with tokens.
