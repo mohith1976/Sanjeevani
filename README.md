@@ -108,12 +108,16 @@ Solution Overview: Our comprehensive solution leverages cutting-edge technologie
 
  **Optimized Queuing Models in OPDs 🕒:**
 Implement predictive algorithms and real-time scheduling systems to minimize wait times and enhance patient flow. Features include dynamic scheduling, digital check-ins, and real-time queue management.
+
 **Real-Time Bed Availability Management 🛏️:**
 Develop an advanced bed management module that provides up-to-the-minute information on bed occupancy across various wards, including ICU and general wards. This system will automatically update bed statuses, issue alerts for near-capacity conditions, and facilitate efficient bed allocation to improve patient flow and reduce overcrowding.
+
  **Streamlined Patient Admissions 📑:**
 Automate the admission process, linking with Electronic Health Records (EHR) to ensure accurate data management, reduce administrative errors, and expedite patient onboarding.
+
  **Enhanced Inventory Management 💊:** 
 Create a comprehensive inventory module with real-time tracking, automated reordering alerts, and batch tracking to ensure timely availability of medical supplies and reduce waste.
+
  **Seamless City-Wide Integration 🌐:**
  Ensure the hospital-based solution integrates effortlessly with the city-wide healthcare module developed by NIC (National Informatics Centre). This integration will enable real-time data exchange, coordinated resource management, and enhanced emergency response capabilities, improving overall healthcare delivery.
  
