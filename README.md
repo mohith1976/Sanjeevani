@@ -159,7 +159,7 @@ Our solution will revolutionize hospital operations by addressing key challenges
 
 7.   JQuery DataTables  :  
    Purpose: Enhances HTML tables with advanced functionalities.  Adds features like sorting, searching, and pagination to manage and view data easily.
-## ** Backend Development:**
+##  **Backend Development:**
 
 8.   Laravel  :  
    Purpose: Provides a PHP framework for building robust web applications.  
@@ -197,7 +197,7 @@ Our solution will revolutionize hospital operations by addressing key challenges
 
 ---
 
-## ** API’s:**
+## **API’s:**
 
 17.   Geolocation API  :  
     Purpose: Determines the geographical location of a device.  
@@ -233,8 +233,8 @@ Our solution will revolutionize hospital operations by addressing key challenges
 -   Purpose  : Improves patient flow management.
 -   Role  : Utilizes AI to adjust queuing systems dynamically based on real-time data, enhancing efficiency and reducing wait times.
 ---
- ## **Encryption and Security:
-**
+ ## **Encryption and Security:**
+
 25.   CSRF Protection  :
 -   Purpose  : Prevents unauthorized actions on behalf of authenticated users.
 -   Role  : Protects against Cross-Site Request Forgery attacks by validating requests with tokens.
