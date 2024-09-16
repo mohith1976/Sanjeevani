@@ -108,13 +108,13 @@ Solution Overview: Our comprehensive solution leverages cutting-edge technologie
 
  **Optimized Queuing Models in OPDs 🕒:**
 Implement predictive algorithms and real-time scheduling systems to minimize wait times and enhance patient flow. Features include dynamic scheduling, digital check-ins, and real-time queue management.
-**  Real-Time Bed Availability Management 🛏️:**
+**Real-Time Bed Availability Management 🛏️:**
 Develop an advanced bed management module that provides up-to-the-minute information on bed occupancy across various wards, including ICU and general wards. This system will automatically update bed statuses, issue alerts for near-capacity conditions, and facilitate efficient bed allocation to improve patient flow and reduce overcrowding.
  **Streamlined Patient Admissions 📑:**
 Automate the admission process, linking with Electronic Health Records (EHR) to ensure accurate data management, reduce administrative errors, and expedite patient onboarding.
  **Enhanced Inventory Management 💊:** 
 Create a comprehensive inventory module with real-time tracking, automated reordering alerts, and batch tracking to ensure timely availability of medical supplies and reduce waste.
- ** Seamless City-Wide Integration 🌐: **
+ **Seamless City-Wide Integration 🌐:**
  Ensure the hospital-based solution integrates effortlessly with the city-wide healthcare module developed by NIC (National Informatics Centre). This integration will enable real-time data exchange, coordinated resource management, and enhanced emergency response capabilities, improving overall healthcare delivery.
  
 ##  **Success Metrics:**
@@ -131,9 +131,9 @@ Our solution will revolutionize hospital operations by addressing key challenges
 
 
 
-   # Technology Stack:
+   # **Technology Stack:**
 
-##**Front-End Development:**
+## **Front-End Development:**
 
 1.   HTML (HyperText Markup Language)  :  
    Purpose: Provides the structure of the web page.  
@@ -159,7 +159,7 @@ Our solution will revolutionize hospital operations by addressing key challenges
 
 7.   JQuery DataTables  :  
    Purpose: Enhances HTML tables with advanced functionalities.  Adds features like sorting, searching, and pagination to manage and view data easily.
-Backend Development:
+## ** Backend Development:**
 
 8.   Laravel  :  
    Purpose: Provides a PHP framework for building robust web applications.  
@@ -197,7 +197,7 @@ Backend Development:
 
 ---
 
- **## API’s:**
+## ** API’s:**
 
 17.   Geolocation API  :  
     Purpose: Determines the geographical location of a device.  
@@ -206,7 +206,7 @@ Backend Development:
 -   Purpose  : Integrates Google Maps into applications.
 -   Role  : Enables interactive maps, location markers, routing, and other geographic features within web and mobile applications.
 
- **##  AI Integrations:**
+##  **AI Integrations:**
 
 19.    ChatBot  :
 -   Purpose  : Automates customer interaction.
@@ -233,7 +233,7 @@ Backend Development:
 -   Purpose  : Improves patient flow management.
 -   Role  : Utilizes AI to adjust queuing systems dynamically based on real-time data, enhancing efficiency and reducing wait times.
 ---
- ** ## Encryption and Security:
+ ## **Encryption and Security:
 **
 25.   CSRF Protection  :
 -   Purpose  : Prevents unauthorized actions on behalf of authenticated users.
