@@ -123,10 +123,14 @@ Create a comprehensive inventory module with real-time tracking, automated reord
  
 ##  **Success Metrics:**
 •	Reduced Wait Times: Measure the decrease in patient wait times in OPDs.
+
 •	Improved Bed Utilization: Track bed occupancy rates and efficiency.
+
 •	Enhanced Patient Satisfaction: Assess patient feedback and satisfaction levels.
-Implementation and Testing Plan:
+
+## **Implementation and Testing Plan:**
 •	Implementation: Detailed timeline and milestones for deployment across hospitals.
+
 •	Testing and Validation: Comprehensive testing plan to ensure functionality and performance.
 
 # **Conclusion:**
