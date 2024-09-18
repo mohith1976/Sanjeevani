@@ -3,7 +3,18 @@
 ![sanjeevani_flowchart](https://github.com/user-attachments/assets/0a7483e2-de14-4e0f-9df2-cc5725fd386a)
 ![sanjeevani_map](https://github.com/user-attachments/assets/ab79b38f-27eb-467b-9666-96607350ebc5)
 
-  #  Required Webpages:
+# **Sanjeevani Protoypes **
+![Sanjeevani_hospital](https://github.com/user-attachments/assets/d638e83f-0809-4a85-b884-51908996486a)
+
+![sanjeevani_medicine](https://github.com/user-attachments/assets/0cf31110-04b9-47d6-91d1-37274966c57a)
+
+![Sanjeevani_bloodbank](https://github.com/user-attachments/assets/79d55637-5c2f-41ea-9207-439a7a7edc31)
+
+![Sanjeevani_city](https://github.com/user-attachments/assets/7812961e-d94f-4df3-ba21-8d77e1cad70c)
+
+
+
+  #  **Required Webpages:**
 
 -   Hospital Login  
 -   Hospital Registration  
@@ -24,7 +35,7 @@
 
 
 
-  #  Additional Pages:
+  #  **Additional Pages:**
 
  **1.	Hospital-Based System:** 
 
