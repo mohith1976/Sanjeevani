@@ -1,9 +1,9 @@
-#  **Sanjeevani +** 
+#  **Sanjeevani+** 
 ![image](https://github.com/user-attachments/assets/04adc913-2dbd-444c-bf7a-df8f9b45d386)
 ![sanjeevani_flowchart](https://github.com/user-attachments/assets/0a7483e2-de14-4e0f-9df2-cc5725fd386a)
 ![sanjeevani_map](https://github.com/user-attachments/assets/ab79b38f-27eb-467b-9666-96607350ebc5)
 
-# **Sanjeevani Protoypes **
+# **Sanjeevani+ Protoypes**
 ![Sanjeevani_hospital](https://github.com/user-attachments/assets/d638e83f-0809-4a85-b884-51908996486a)
 
 ![sanjeevani_medicine](https://github.com/user-attachments/assets/0cf31110-04b9-47d6-91d1-37274966c57a)
