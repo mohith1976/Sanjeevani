@@ -1,0 +1,153 @@
+/* General styles */
+body {
+  font-family: "Karla", sans-serif;
+  background-color: #d0d0ce;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.login-card {
+  border: 0;
+  border-radius: 27.5px;
+  box-shadow: 0 10px 30px 0 rgba(172, 168, 168, 0.43);
+  overflow: hidden;
+  display: flex;
+}
+
+.login-card .card-body {
+  padding: 35px;
+}
+
+.login-card-description {
+  font-size: 1.5rem;
+  color: #000;
+  font-weight: normal;
+  margin-bottom: 1.5rem;
+}
+
+.login-card form {
+  max-width: 100%;
+}
+
+.login-card .form-control {
+  border: 1px solid #d5dae2;
+  padding: 15px;
+  margin-bottom: 1rem;
+  font-size: 0.875rem;
+}
+
+#phone:valid{
+border-color: green;
+border: 5px;
+}
+#phone:focus:invalid{
+  border-color: red;
+  }
+
+
+/* Styles for invalid input fields */
+.is-invalid {
+  border-color: #dc3545;
+}
+
+.invalid-feedback {
+  color: #dc3545;
+  display: none;
+}
+
+.is-invalid ~ .invalid-feedback {
+  display: block;
+}
+
+.registor_button {
+  border-radius: 8px;
+  color: white;
+  border: none;
+  width: 500px; /* Keep fixed width on desktop */
+  height: 50px;
+  background-color: #00a8e8;
+  cursor: pointer;
+  box-shadow: inset 0 0 0 0 #00a8e8;
+  transition: ease-out 0.4s;
+  margin-top: 1rem;
+  margin-left: auto;
+  margin-right: auto; /* Center button horizontally */
+}
+
+.registor_button:hover {
+  box-shadow: inset 500px 0 0 0 white;
+  color: #00a8e8;
+}
+
+/* Tablet styles */
+@media (max-width: 991.98px) {
+  .login-card {
+    flex-direction: column;
+  }
+
+  .login-card .card-body {
+    padding: 20px;
+  }
+
+  .login-card-description {
+    font-size: 1.25rem;
+  }
+
+  .form-control {
+    width: 100%;
+  }
+
+  .form-group2,
+  .form-group1,
+  .form-group12,
+  .form-group13,
+  .form-group23,
+  .form-group24 {
+    width: 100%;
+  }
+
+  .registor_button {
+    width: 100%; /* Full width on tablets */
+    max-width: none; /* Remove max-width constraint */
+  }
+}
+
+/* Mobile styles */
+@media (max-width: 767.98px) {
+  .login-card {
+    border-radius: 0;
+    box-shadow: none;
+    padding: 15px;
+  }
+
+  .login-card .card-body {
+    padding: 15px;
+  }
+
+  .login-card-description {
+    font-size: 1.25rem;
+  }
+
+  .form-control {
+    width: 100%;
+  }
+
+  .form-group2,
+  .form-group1,
+  .form-group12,
+  .form-group13,
+  .form-group23,
+  .form-group24 {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  .form-group24 {
+    height: auto; /* Remove height constraint */
+  }
+
+  .registor_button {
+    width: 100%; /* Full width on mobile */
+    max-width: none; /* Remove max-width constraint */
+  }
+}
