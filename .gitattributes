@@ -1,0 +1,4 @@
+# Exclude all CSS files
+**/*.css linguist-vendored
+
+**/*.scss linguist-vendored
